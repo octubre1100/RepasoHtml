@@ -1,0 +1,49 @@
+h1 {
+color: red;
+text-align: center;
+}
+body {
+    background-color: lightgray;
+}
+p {
+    font-size: 20px;
+    background-color: lightblue;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+img {
+    border: 2px, black;
+   width: 200px;
+    border-style: solid;
+}
+.resaltar {
+    color: green;
+}
+div {
+    margin: 15px;
+}
+table {
+    padding: 10px;
+}
+#tituloGrande {
+    font-size: 30px;
+}
+ul {
+    color: purple;
+}
+#special {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: yellow;
+}
+#rara {
+    
+    border: 1px, solid, black;
+    border-collapse: collapse;
+}
+td, th {
+    padding: 5px;
+    border: 1px, solid, black; 
+}
